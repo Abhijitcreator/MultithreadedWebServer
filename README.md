@@ -12,10 +12,10 @@
 
 ### Steps
 
-1. **Clone the repository:**
+1. Clone the repository:
 
-
-  https://github.com/Abhijitcreator/MultithreadedWebServer
+   ```bash
+   https://github.com/aritrakar95/MultiThreadedWebServer
 
 2. **Set up JMeter**
 
